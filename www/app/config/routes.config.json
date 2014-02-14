@@ -1,0 +1,6 @@
+[{
+  "path": "/home",
+  "controller": "HomeCtrl",
+  "title": "Home",
+  "layout": "layout"
+}]
